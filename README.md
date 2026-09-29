@@ -1,0 +1,1 @@
+# OOP-Lab-Task-OF-Static-Member-and-Static-Function
